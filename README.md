@@ -1,4 +1,4 @@
-# MeMPG (also SRAM-PG)
+# SRAM-PG
 ## A benchmark suite for power delivery network analysis
 The benchmarks are obtained from realistic and state-of-the-art SRAM designs, following a workflow for generating the post-layout PDN netlists with full RC parasitics. With careful modeling of load currents, the benchmarks reflect the dynamic work mode of the IC and can be used for both transient and DC analysis. The benchmarks are derived from the designs for diverse applications. We hope sharing them in the public domain with detailed descriptions would largely benefit the relevant research.
 ## Download
