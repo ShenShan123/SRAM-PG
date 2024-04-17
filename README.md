@@ -80,3 +80,15 @@ The DC solution file contains all available nodes in the PDN. In the transient s
 ## Note:
 - The solutions that we have provided in this version may not be the accurate ones due to the simulator we used. 
 - Floating nodes exist in the netlist
+
+## Cite SRAM-PG
+If you use SRAM-PG in a scientific publication, we would appreciate citations to the following paper:
+
+```
+@article{shen2024sram,
+  title={SRAM-PG: Power Delivery Network Benchmarks from SRAM Circuits},
+  author={Shen, Shan and Liu, Zhiqiang and Yu, Wenjian},
+  journal={arXiv preprint arXiv:2404.05260},
+  year={2024}
+}
+```
